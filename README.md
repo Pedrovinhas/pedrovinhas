@@ -1,10 +1,7 @@
 ## Hi there, welcome to my profile 👋
 
-<p> My name is <b> Pedro Henrique Vinhas </b> Science Computer Student and enthusiastic on tecnology.  </p>
-<!--
-**Pedrovinhas/pedrovinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> My name is <b> Pedro Henrique Vinhas </b> Science Computer Student and enthusiastic on tecnology </p>
 
-Here are some ideas to get you started:
 
 ### 🛠 Stacks
 
