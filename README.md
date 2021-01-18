@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm Pedro Henrique Vinhas👋 </h1>
 
-<p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology </p>
+<p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology live in Salvador, Bahia, Brazil. </p>
 
 
 ### 📚 Skills
