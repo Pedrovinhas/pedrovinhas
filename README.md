@@ -1,6 +1,6 @@
-## Hi there, welcome to my profile 👋
+## Hi there, I'm Pedro Henrique Vinhas👋
 
-<p> My name is <b> Pedro Henrique Vinhas </b> Science Computer Student and enthusiastic on tecnology </p>
+<p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology </p>
 
 
 ### 🛠 Stacks
@@ -11,4 +11,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&theme=vision-friendly-dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&theme=vision-friendly-dark)
