@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm Pedro Henrique Vinhas👋 </h1>
 
-<p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology live in Salvador, Bahia, Brazil. </p>
+<p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology live in Salvador, Bahia, Brazil looking for opportunities </p>
 
 
 ### 📚 Skills
@@ -10,11 +10,13 @@
 
 ![CSS3](https://img.shields.io/badge/-CSS3-5DAFEF?style=flat-square&logoColor=fff&logo=CSS3)
 
+![MySQL](https://img.shields.io/badge/-mySQL-21576A?style=flat-square&logoColor=fff&logo=mySQL)
 
-
+![C Programming](https://img.shields.io/badge/-C%20Programming-1A2629?style=flat-square&logoColor=fff&logo=C)
 
 ### 🚀 Learning
 
+![Flutter](https://img.shields.io/badge/-Flutter-58D6FE?style=flat-square&logoColor=fff&logo=Flutter)
 
 ### 😄 Contact me 
 
