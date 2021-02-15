@@ -12,7 +12,7 @@
         <th> Mobile </th>
     </thead>
     <tbody>
-        <td valign="top" width="35%">
+        <td valign="top" width="37%">
             <img src="/icons/html5.svg"
             width="32"
             />
@@ -26,7 +26,7 @@
             width="32"
             />
         </td>
-        <td valign="top" width="35%">
+        <td valign="top" width="37%">
             <img src="/icons/node.png" 
             width="32"
             />
