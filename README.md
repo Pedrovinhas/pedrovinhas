@@ -8,8 +8,8 @@
     <thead>
         <th>Frontend</th>
         <th>Backend</th>
-        <th> ⛏ Tools </th>
-        <th> 📱 Mobile </th>
+        <th> Tools </th>
+        <th> Mobile </th>
     </thead>
     <tbody>
         <td valign="top" width="35%">
