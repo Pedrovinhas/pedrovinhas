@@ -12,7 +12,7 @@
         <th> Mobile </th>
     </thead>
     <tbody>
-        <td valign="top" width="37%">
+        <td valign="top">
             <img src="/icons/html5.svg"
             width="32"
             />
@@ -26,7 +26,7 @@
             width="32"
             />
         </td>
-        <td valign="top" width="37%">
+        <td valign="top">
             <img src="/icons/node.png" 
             width="32"
             />
@@ -40,7 +40,7 @@
             width="32"
             />
         </td>
-        <td valign="top" width="1%">
+        <td valign="top">
             <img src="/icons/git.svg" 
             width="32"
             />
@@ -48,7 +48,7 @@
             width="32"
             />
         </td>
-        <td width="2%">
+        <td valign="top">
         <img src="/icons/flutter.svg" 
             width="32"
             />
