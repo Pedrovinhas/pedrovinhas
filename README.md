@@ -12,7 +12,7 @@
         <th> 📱 Mobile </th>
     </thead>
     <tbody>
-        <td valign="top" width="34%">
+        <td valign="top" width="35%">
             <img src="/icons/html5.svg"
             width="32"
             />
@@ -26,7 +26,7 @@
             width="32"
             />
         </td>
-        <td valign="top" width="31%">
+        <td valign="top" width="35%">
             <img src="/icons/node.png" 
             width="32"
             />
@@ -40,7 +40,7 @@
             width="32"
             />
         </td>
-        <td valign="top">
+        <td valign="top" width="15%">
             <img src="/icons/git.svg" 
             width="32"
             />
@@ -48,7 +48,7 @@
             width="32"
             />
         </td>
-        <td align="center" valign="middle">
+        <td>
         <img src="/icons/flutter.svg" 
             width="32"
             />
@@ -58,9 +58,11 @@
  
 ### 🚀 Want to Learn
 
+<div>
 <img width="38" src="/icons/react.svg" alt="React"/>
 <img width="38" src="/icons/nextjs.svg" alt="Nextjs"/>
 <img width="38" src="/icons/typescript.svg" alt="Typescript"/>
+</div>
 
 
 ### 😄 Contact me 
