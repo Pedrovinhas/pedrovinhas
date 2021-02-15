@@ -4,21 +4,64 @@
 
 
 ### 📚 Developing Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat-square&logoColor=fff&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-5DAFEF?style=flat-square&logoColor=fff&logo=CSS3)
-![MySQL](https://img.shields.io/badge/-mySQL-21576A?style=flat-square&logoColor=fff&logo=mySQL)
-![C Programming](https://img.shields.io/badge/-C%20Programming-1A2629?style=flat-square&logoColor=fff&logo=C)
-![Flutter](https://img.shields.io/badge/-Flutter-58D6FE?style=flat-square&logoColor=fff&logo=Flutter)
-
-### ⛏ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=fff&logo=Git)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logoColor=fff&logo=Visual-Studio-Code)
-
+<table>
+    <thead>
+        <th>Frontend</th>
+        <th>Backend</th>
+        <th> ⛏ Tools </th>
+        <th> 📱 Mobile </th>
+    </thead>
+    <tbody>
+        <td valign="top" width="34%">
+            <img src="/icons/html5.svg"
+            width="32"
+            />
+            <img src="/icons/css3.svg"
+            width="32"
+            />
+            <img src="/icons/javascript.svg" 
+            width="32"
+            />
+             <img src="/icons/SaSS.svg" 
+            width="32"
+            />
+        </td>
+        <td valign="top" width="31%">
+            <img src="/icons/node.png" 
+            width="32"
+            />
+            <img src="/icons/my-sql.svg"
+            width="32"
+            />
+            <img src="/icons/sqlite.svg" 
+            width="32"
+            />
+             <img src="/icons/c.svg" 
+            width="32"
+            />
+        </td>
+        <td valign="top">
+            <img src="/icons/git.svg" 
+            width="32"
+            />
+            <img src="/icons/vscode.svg" 
+            width="32"
+            />
+        </td>
+        <td align="center" valign="middle">
+        <img src="/icons/flutter.svg" 
+            width="32"
+            />
+        </td>
+    </tbody>
+</table>
+ 
 ### 🚀 Want to Learn
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logoColor=fff&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-191919?style=flat-square&logoColor=fff&logo=Next.JS)
+
+<img width="38" src="/icons/react.svg" alt="React"/>
+<img width="38" src="/icons/nextjs.svg" alt="Nextjs"/>
+<img width="38" src="/icons/typescript.svg" alt="Typescript"/>
+
 
 ### 😄 Contact me 
 
