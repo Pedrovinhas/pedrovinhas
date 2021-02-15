@@ -48,7 +48,7 @@
             width="32"
             />
         </td>
-        <td width="2%">
+        <td valign="top" width="2%">
         <img src="/icons/flutter.svg" 
             width="32"
             />
