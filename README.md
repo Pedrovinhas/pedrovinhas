@@ -40,7 +40,7 @@
             width="32"
             />
         </td>
-        <td valign="top" width="15%">
+        <td valign="top" width="20%">
             <img src="/icons/git.svg" 
             width="32"
             />
