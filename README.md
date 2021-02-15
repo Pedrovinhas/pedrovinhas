@@ -40,7 +40,7 @@
             width="32"
             />
         </td>
-        <td valign="top" width="24%">
+        <td valign="top" width="1%">
             <img src="/icons/git.svg" 
             width="32"
             />
@@ -48,7 +48,7 @@
             width="32"
             />
         </td>
-        <td>
+        <td width="2%">
         <img src="/icons/flutter.svg" 
             width="32"
             />
