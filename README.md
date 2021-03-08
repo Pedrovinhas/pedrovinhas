@@ -84,7 +84,7 @@
 ---
 <p>
 <a href="https://github.com/pedrovinhas">
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&theme=vision-friendly-dark" alt="Top Langs />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&theme=vision-friendly-dark" alt="Top Langs" />
       <img  src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub stats"/>
 </a>
 </p>
