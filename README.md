@@ -64,28 +64,21 @@
 <img width="38" src="/icons/typescript.svg" alt="Typescript"/>
 </div>
 
+### Github Status
 
-### 😄 Contact me 
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8"/>      </a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://www.instagram.com/peuvinhas" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/peuvinhas"/></a>
-</p>  
-
----
 <p>
 <a href="https://github.com/pedrovinhas">
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&theme=vision-friendly-dark" alt="Top Langs" />
       <img  src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub stats"/>
 </a>
 </p>
+
+### 😄 Contact me 
+
+<p>
+<a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/"><img align="left" alt="Facebook" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/></a>
+
+<a href="mailto:peuvinhas2@gmail.com"><img align="left" alt="Gmail" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1615343918~hmac=0dd0a5646e1d55524d1a25ed468e44c5"/></a>
+
+<a href="https://www.instagram.com/peuvinhas"><img align="left" alt="Instagram" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/></a>
 
