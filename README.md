@@ -1,7 +1,7 @@
 <h1 align=center> Hi there, I'm Pedro Henrique Vinhas👋 </h1>
 
 <div align=center>
-    <img src="https://komarev.com/ghpvc/?username=pedro-vinhas&color=000&style=flat-square&logo=github">
+    <img src="https://komarev.com/ghpvc/?username=pedro-vinhas&color=000000&style=flat-square&logo=github&labelColor=000000">
      <img src="https://img.shields.io/github/followers/pedrovinhas?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Follow">
  </div>
 
@@ -80,6 +80,7 @@
 <div align=center>
 <a href="https://github.com/pedrovinhas">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=vision-friendly-dark">
+    </a>
     <a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
     <img align="left" alt="Facebook" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
 </a>
