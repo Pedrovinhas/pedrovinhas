@@ -81,6 +81,8 @@
 <a href="https://github.com/pedrovinhas">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=vision-friendly-dark">
     </a>
+</div>
+<div align=center>
     <a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
     <img align="left" alt="Facebook" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
 </a>
