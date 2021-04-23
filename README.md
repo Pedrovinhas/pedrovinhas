@@ -1,7 +1,13 @@
 <h1 align=center> Hi there, I'm Pedro Henrique Vinhas👋 </h1>
 
 <p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology live in Salvador, Bahia, Brazil looking for opportunities </p>
-
+    
+<div align=center>
+    <a href="https://github.com/pedrovinhas">
+     <img src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=dark" alt="GitHub stats"/>
+     </a>
+</div>
+    
 
 ### 📚 Developing Skills
 <table>
@@ -64,13 +70,11 @@
 <img width="38" src="/icons/typescript.svg" alt="Typescript"/>
 </div>
 
-### Github Status
+---
 
 <p>
 <a href="https://github.com/pedrovinhas">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&theme=vision-friendly-dark" alt="Top Langs" />
-      <img src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub stats"/>
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=dark">
 </p>
 
 ### 😄 Contact me 
