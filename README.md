@@ -82,7 +82,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=vision-friendly-dark">
     </a>
 </div>
-<div align=center>
+
+<p align=center>
     <a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
     <img align="left" alt="Facebook" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
 </a>
@@ -94,9 +95,8 @@
 <a href="https://www.instagram.com/peuvinhas">
     <img align="left" alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/>
 </a>
-</div>
+</p>
 
----
 
 <div align=center>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=pedrovinhas&theme=vision-friendly-dark" alt="Github Streak Status">
