@@ -83,6 +83,8 @@
     </a>
 </div>
 
+---
+
 <div align=center>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=pedrovinhas&theme=vision-friendly-dark" alt="Github Streak Status"/>
 </div>
