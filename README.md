@@ -1,5 +1,9 @@
 <h1 align=center> Hi there, I'm Pedro Henrique Vinhas👋 </h1>
 
+<div align=center>
+    <img src="https://komarev.com/ghpvc/?username=pedro-vinhas&color=151515">
+ </div>
+
 <p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology live in Salvador, Bahia, Brazil looking for opportunities </p>
     
 <div align=center>
@@ -72,17 +76,21 @@
 
 ---
 
-<p>
+<div align=center>
 <a href="https://github.com/pedrovinhas">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=dark">
-</p>
+</div>
 
 ### 😄 Contact me 
 
 <p>
-<a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/"><img align="left" alt="Facebook" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
+    <img align="left" alt="Facebook" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
+</a>
 
-<a href="mailto:peuvinhas2@gmail.com"><img align="left" alt="Gmail" width="44px" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1615343918~hmac=0dd0a5646e1d55524d1a25ed468e44c5"/></a>
+<a href="mailto:peuvinhas2@gmail.com">
+    <img align="left" alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
+</a>
 
-<a href="https://www.instagram.com/peuvinhas"><img align="left" alt="Instagram" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/></a>
+<a href="https://www.instagram.com/peuvinhas"><img align="left" alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/></a>
 
