@@ -1,14 +1,15 @@
 <h1 align=center> Hi there, I'm Pedro Henrique Vinhas👋 </h1>
 
 <div align=center>
-    <img src="https://komarev.com/ghpvc/?username=pedro-vinhas&color=151515">
+    <img src="https://komarev.com/ghpvc/?username=pedro-vinhas&color=000&style=flat-square&logo=github">
+     <img src="https://img.shields.io/github/followers/pedrovinhas?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Follow">
  </div>
 
 <p align=center> Science Computer Student from UNIFACS and enthusiastic on tecnology live in Salvador, Bahia, Brazil looking for opportunities </p>
     
 <div align=center>
     <a href="https://github.com/pedrovinhas">
-     <img src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=dark" alt="GitHub stats"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub stats"/>
      </a>
 </div>
     
@@ -78,13 +79,8 @@
 
 <div align=center>
 <a href="https://github.com/pedrovinhas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=dark">
-</div>
-
-### 😄 Contact me 
-
-<p>
-<a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=vision-friendly-dark">
+    <a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
     <img align="left" alt="Facebook" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
 </a>
 
@@ -92,5 +88,13 @@
     <img align="left" alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
 </a>
 
-<a href="https://www.instagram.com/peuvinhas"><img align="left" alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/></a>
+<a href="https://www.instagram.com/peuvinhas">
+    <img align="left" alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/>
+</a>
+</div>
 
+---
+
+<div align=center>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=pedrovinhas&theme=vision-friendly-dark" alt="Github Streak Status">
+</div>
