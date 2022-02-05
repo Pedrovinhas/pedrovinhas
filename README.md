@@ -77,6 +77,7 @@
   
  ### Sobre mim
   - 👩‍🚀 Faço o curso Ignite da RocketSeat, com o objetivo de aprender **ReactJS** e **Styled-Components**.
+  - 🧐 Buscando uma oportunidade na área de Desenvolvimento Web.
   - 🎬 Tenho uma paixão genuína por livros e filmes. 
   - 📒 Minha leitura profissional de Feveiro é: **Ágil do jeito certo**.
   - 🤝 Procuro sempre me atualizar nas tecnologias por meio de cursos, maratonas e atividades interativas.
