@@ -99,10 +99,10 @@
 
 <div align=center>
     <a href="https://github.com/pedrovinhas" margin-right:'25'>
-     <img height='200em' src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub stats"/>
+     <img height='165em' src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub stats"/>
      </a>
     <a href="https://github.com/pedrovinhas">
-    <img  height='200em'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=vision-friendly-dark" width=415px>
+    <img  height='165em'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=vision-friendly-dark" width=415px>
     </a>
 </div>
 
