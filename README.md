@@ -35,11 +35,14 @@
             width="32"
             />
         </td>
-        <td width=20px valign="top">
+        <td valign="top">
             <img src="/icons/git.svg" 
             width="32"
             />
             <img src="/icons/vscode.svg" 
+            width="32"
+            />
+            <img src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png"
             width="32"
             />
     </tbody>
