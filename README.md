@@ -88,6 +88,7 @@
  ###  👀 Curiosidades
   - 👩‍🚀 Faço o curso Ignite da RocketSeat, com o objetivo de aprender **ReactJS** e **Styled-Components**.
   - 🧐 Atualmente estou cursando o 5º semestre de Ciência da Computação na Universidade Salvador.  
+  - ☝ Participando do programa Hiring Coders 3.
   - 🎬 Tenho uma paixão genuína por livros e filmes. 
   - 📒 Minha leitura profissional de Fevereiro é: **Ágil do jeito certo**.
   - 📚 Procuro sempre me atualizar nas tecnologias por meio de cursos, maratonas e atividades interativas.
@@ -97,6 +98,20 @@
 - 👨‍💻 Construir portfólio
 - ✨ Aprender UX/UI para projetos pessoais
 - 🎉 Conquistar vaga como Desenv. Front-End
+
+### 💬 Sinta-se a vontade para entrar em contato
+
+<div width="100" align=left>
+    <a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
+    <img  alt="Facebook" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
+</a>
+<a href="mailto:peuvinhas2@gmail.com">
+    <img widh=100px  alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
+</a>
+<a href="https://www.instagram.com/peuvinhas"> <img  alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/</a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/pedrov2418-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    
+</div>
   
 ---
 
@@ -116,17 +131,3 @@
 </div>
 
 ---
-
-💬 Sinta-se a vontade para entrar em contato
-
-<div width="100" align=left>
-    <a href="https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/">
-    <img  alt="Facebook" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
-</a>
-<a href="mailto:peuvinhas2@gmail.com">
-    <img widh=100px  alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
-</a>
-<a href="https://www.instagram.com/peuvinhas"> <img  alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/pedrov2418-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    
-</div>
