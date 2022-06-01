@@ -1,5 +1,5 @@
 <h1 align=left> Olá!
-    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="24px" >
 </h1>
 
 <div align=center>
@@ -18,7 +18,7 @@
         <th> Ferramentas </th>
     </thead>
     <tbody>
-        <td>
+        <td width="136">
             <img src="/icons/html5.svg"
             width="32"
             />
@@ -34,8 +34,12 @@
              <img src="/icons/react.svg" alt="React"
             width="32"
             />
+            <img 
+                 src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" 
+                 alt="Styled-Components" 
+                 width="32"/>
         </td>
-        <td valign="top">
+        <td width="150">
             <img src="/icons/git.svg" 
             width="32"
             />
@@ -45,6 +49,9 @@
             <img src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png"
             width="32"
             />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png"
+             width="32"
+        </td>
     </tbody>
 </table>
     
@@ -64,7 +71,6 @@
             <img src="/icons/typescript.svg" alt="TypeScript"
             width="32"
             />
-            <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled-Components" width="32"/>
         </td>
         <td valign="top">
             <img src="/icons/node.png" 
