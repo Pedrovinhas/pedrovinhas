@@ -96,7 +96,7 @@
   - 🧐 Atualmente estou cursando o 5º semestre de Ciência da Computação na Universidade Salvador.  
   - ☝ Participando do programa Hiring Coders 3.
   - 🎬 Tenho uma paixão genuína por livros e filmes. 
-  - 📒 Minha leitura profissional de Fevereiro é: **Ágil do jeito certo**.
+  - 📒 Minha leitura de Junho é: **Don't Make me Think**.
   - 📚 Procuro sempre me atualizar nas tecnologias por meio de cursos, maratonas e atividades interativas.
 
 ### 📊 Objetivos em 2022
