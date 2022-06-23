@@ -18,7 +18,7 @@
         <th> Ferramentas </th>
     </thead>
     <tbody>
-        <td width="136">
+        <td width="178">
             <img src="/icons/html5.svg"
             width="32"
             />
@@ -37,6 +37,10 @@
             <img 
                  src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" 
                  alt="Styled-Components" 
+                 width="32"/>
+            <img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png"
+                 alt="TailwindCSS"
                  width="32"/>
         </td>
         <td width="150">
