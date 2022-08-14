@@ -75,6 +75,9 @@
             <img src="/icons/typescript.svg" alt="TypeScript"
             width="32"
             />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL"
+            width="32"
+            />
         </td>
         <td valign="top">
             <img src="/icons/node.png" 
@@ -97,7 +100,7 @@
   
  ###  👀 Curiosidades
   - 👩‍🚀 Faço o curso Ignite da RocketSeat, com o objetivo de aprender **ReactJS** e **Styled-Components**.
-  - 🧐 Atualmente estou cursando o 5º semestre de Ciência da Computação na Universidade Salvador.  
+  - 🧐 Atualmente estou cursando o 6º semestre de Ciência da Computação na Universidade Salvador.  
   - ☝ Participando do programa Hiring Coders 3.
   - 🎬 Tenho uma paixão genuína por livros e filmes. 
   - 📒 Minha leitura de Junho é: **Don't Make me Think**.
