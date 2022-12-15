@@ -99,9 +99,7 @@
 
   
  ###  👀 Curiosidades
-  - 👩‍🚀 Faço o curso Ignite da RocketSeat, com o objetivo de aprender **ReactJS** e **Styled-Components**.
   - 🧐 Atualmente estou cursando o 6º semestre de Ciência da Computação na Universidade Salvador.  
-  - ☝ Participando do programa Hiring Coders 3.
   - 🎬 Tenho uma paixão genuína por livros e filmes. 
   - 📒 Minha leitura atual é: **Don't Make me Think**.
   - 📚 Procuro sempre me atualizar nas tecnologias por meio de cursos, maratonas e atividades interativas.
