@@ -28,6 +28,12 @@ Software Engineer with a degree in Computer Science and 2+ years developing full
 
 > "Software Development is the skill of manage entrophy all long of the time"
 
+---
+
+### ![Current Reading](https://img.shields.io/badge/Current%20Reading-181720?style=for-the-badge\&logo=bookstack\&logoColor=white)
+
+* *Fundamentals of Software Architecture: An Engineering Approach*
+
 <!-- <div align="center">
     <a href="https://github.com/pedrovinhas">
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrovinhas&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub stats"/>
@@ -36,8 +42,6 @@ Software Engineer with a degree in Computer Science and 2+ years developing full
         <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinhas&hide=TeX&layout=compact&theme=vision-friendly-dark" width="415px">
     </a>
 </div> -->
-
----
 
 <!-- <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=pedrovinhas&theme=vision-friendly-dark" alt="Github Streak Status"/>
