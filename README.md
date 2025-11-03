@@ -9,7 +9,7 @@
 
 ### ![About Me](https://img.shields.io/badge/About%20Me-181720?style=for-the-badge\&logo=saturn\&logoColor=white)
 
-Software Engineer with a degree in Computer Science and 2+ years developing full-stack web applications. I have been dedicating my back-end studies to **software architecture and engineering**, always deepening my fundamentals and discovering that the more you learn, the more there is to explore. Learning is a long, enjoyable journey.
+Software Engineer with a degree in Computer Science and 2+ years developing full-stack web applications. I have been dedicating my back-end studies to **software architecture and engineering**, always deepening my fundamentals and discovering that the more you learn, the more there is to explore - and I'm happy with that! Learning is a long, enjoyable journey.
 
 ---
 
@@ -21,7 +21,7 @@ Software Engineer with a degree in Computer Science and 2+ years developing full
 * **Tools:** Git, Bitbucket, CI/CD pipelines
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedIn-181720?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/pedro-henrique-vinhas/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-181720?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pedro-henrique-vinhas-a049861b8/)
 [![Gmail](https://img.shields.io/badge/GMAIL-181720?logo=gmail\&style=for-the-badge)](mailto:peuvinhas2@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-181720?logo=instagram\&style=for-the-badge)](https://www.instagram.com/peuvinhas)
 [![Discord](https://img.shields.io/badge/pedrov2410-181720?logo=discord\&logoColor=white\&style=for-the-badge)](#)
