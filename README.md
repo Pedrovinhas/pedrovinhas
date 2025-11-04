@@ -26,13 +26,13 @@ Software Engineer with a degree in Computer Science and 2+ years developing full
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-181720?logo=instagram\&style=for-the-badge)](https://www.instagram.com/peuvinhas)
 [![Discord](https://img.shields.io/badge/pedrov2410-181720?logo=discord\&logoColor=white\&style=for-the-badge)](#)
 
-> ""Software development is the ability to manage entropy all along the time.""
+> "Software development is the ability to manage entropy all along the time."
 
 ---
 
 ### ![Current Reading](https://img.shields.io/badge/Current%20Reading-181720?style=for-the-badge\&logo=bookstack\&logoColor=white)
 
-* *Fundamentals of Software Architecture: An Engineering Approach*
+*Fundamentals of Software Architecture: An Engineering Approach*
 
 <!-- <div align="center">
     <a href="https://github.com/pedrovinhas">
